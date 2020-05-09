@@ -1,0 +1,6 @@
+module Pods_Cinema_CinemaTests {
+  umbrella header "Pods-Cinema-CinemaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
